@@ -1,2 +1,2 @@
 # HASD
-Hinário Adventista do Sétimo Dia
+Repositório para o Hinário Adventista do Sétimo Dia.
