@@ -1,0 +1,9 @@
+C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\bin\Debug\HASD.exe
+C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\bin\Debug\HASD.pdb
+C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\bin\Debug\HASD.xml
+C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\obj\x86\Debug\WindowsApplication1.Inicial.resources
+C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\obj\x86\Debug\HASD.vbproj.GenerateResource.Cache
+C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\obj\x86\Debug\HASD.exe
+C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\obj\x86\Debug\HASD.xml
+C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\obj\x86\Debug\HASD.pdb
