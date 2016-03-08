@@ -40,6 +40,15 @@
             e.SuppressKeyPress = True
         End If
     End Sub
+    Private Sub NumeroHino_KeyPress(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles NumeroHino.KeyPress
+
+        If Not (Char.IsDigit(e.KeyChar) OrElse Char.IsControl(e.KeyChar)) Then
+
+            e.Handled = True
+
+        End If
+
+    End Sub
 End Class
 
 
