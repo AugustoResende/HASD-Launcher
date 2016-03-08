@@ -7,3 +7,6 @@ C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\obj\x86\Debug\HAS
 C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\obj\x86\Debug\HASD.exe
 C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\obj\x86\Debug\HASD.xml
 C:\Users\Gabri\documents\visual studio 2010\Projects\HASD\HASD\obj\x86\Debug\HASD.pdb
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\obj\x86\Debug\HASD.exe
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\obj\x86\Debug\HASD.xml
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\obj\x86\Debug\HASD.pdb

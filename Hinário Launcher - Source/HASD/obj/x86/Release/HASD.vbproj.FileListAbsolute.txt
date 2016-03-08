@@ -1,0 +1,9 @@
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\bin\Release\HASD.exe
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\bin\Release\HASD.pdb
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\bin\Release\HASD.xml
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\obj\x86\Release\WindowsApplication1.Inicial.resources
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\obj\x86\Release\HASD.vbproj.GenerateResource.Cache
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\obj\x86\Release\HASD.exe
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\obj\x86\Release\HASD.xml
+C:\Users\Gabri\Documents\Visual Studio 2010\Projects\HASD\Hinário Launcher - Source\HASD\obj\x86\Release\HASD.pdb
