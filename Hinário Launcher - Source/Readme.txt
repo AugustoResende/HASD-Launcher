@@ -1,1 +1,1 @@
-Compile usando o Visual Basic 2008
+Para compilar use o Visual Studio :D
