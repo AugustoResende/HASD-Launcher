@@ -1,2 +1,2 @@
-# HASD
-Repositório para o Hinário Adventista do Sétimo Dia.
+# HASD Launcher
+Repositório para o Launcher do Hinário Adventista do Sétimo Dia.
