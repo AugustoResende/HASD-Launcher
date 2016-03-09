@@ -15,6 +15,10 @@
             hinoformatado = hino.ToString("D3")
             If My.Computer.FileSystem.FileExists(hinoformatado + ".exe") Then
                 Process.Start(hinoformatado + ".exe")
+            ElseIf My.Computer.FileSystem.FileExists(hinoformatado + ".pps") Then
+                Process.Start(hinoformatado + ".pps")
+            ElseIf My.Computer.FileSystem.FileExists(hinoformatado + ".ppsx") Then
+                Process.Start(hinoformatado + ".ppsx")
             End If
             NumeroHino.Text = ""
         End If
